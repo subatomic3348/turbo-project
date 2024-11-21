@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "week-16-1.0-live",
   "private": true,
   "scripts": {
     "build": "turbo build",
